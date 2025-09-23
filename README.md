@@ -1,1 +1,1 @@
-# Configuración de Academy.Payment
+Academy.Payment
